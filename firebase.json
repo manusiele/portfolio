@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "site": "manusiele-4efb8",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": []
+  }
+}
